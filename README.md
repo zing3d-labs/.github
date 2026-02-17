@@ -17,7 +17,7 @@ We believe 3D modeling should be as scalable as software. Our mission is to make
 Found a bug in a tool? Need a specific parametric feature in a model?
 * **Discussions:** Head over to our repo discussions to share ideas.
 * **Issues:** Report bugs or request features in the specific repository.
-* **Maker Handle:** Follow the human behind the labs at [@jonnydev13](https://github.com/jonnydev13).
+* **Maker Handle:** Follow the human behind the labs at [@jhuizingh](https://github.com/jhuizingh).
 
 ---
 *“Automating the mundane, so you can print the extraordinary.”*
